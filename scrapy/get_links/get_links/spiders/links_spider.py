@@ -13,7 +13,7 @@ class LinksSpider(scrapy.Spider):
         for link in found_links:
             current_link = link.split('href="')[1].split('"')[0],
             current_link = current_link[0]
-            if "#" in current_link or "http" not in current_link:
+            if "http" not in current_link:
                 continue
             found_name = ''
             for ch in link:
@@ -27,6 +27,6 @@ class LinksSpider(scrapy.Spider):
             yield {
                 'id': counter,
                 'link': current_link,
-                'name': final_name,
+                'name': final_name.strip(),
             }
             counter += 1
