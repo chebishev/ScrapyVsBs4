@@ -14,3 +14,5 @@ The working part (with interface is the BS one)
 # scrapy console results:
 found 107 links, and showed 96 valid ones
 ![image](scrapy-test.png)
+
+The full search is in the json file that is automatically generated
