@@ -12,4 +12,5 @@ The working part (with interface is the BS one)
 ![image](bs4.png)
 
 # scrapy console results:
+found 107 links, and showed 96 valid ones
 ![image](scrapy-test.png)
