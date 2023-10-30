@@ -1,0 +1,482 @@
+[
+{
+    "id": 1,
+    "link": "https://www.bdz.bg/bg",
+    "name": "БДЖ Пътнически превози"
+},
+{
+    "id": 2,
+    "link": "https://bdzcargo.bdz.bg/bg",
+    "name": "БДЖ Товарни превози"
+},
+{
+    "id": 3,
+    "link": "https://holding.bdz.bg/bg",
+    "name": "Холдинг БДЖ"
+},
+{
+    "id": 4,
+    "link": "https://www.bdz.bg/bg/stats",
+    "name": "Статистика"
+},
+{
+    "id": 5,
+    "link": "https://tenders.bdz.bg/",
+    "name": "Профил на купувача"
+},
+{
+    "id": 6,
+    "link": "https://www.bdz.bg/bg/c/za-nas",
+    "name": "Контакти"
+},
+{
+    "id": 7,
+    "link": "https://www.bdz.bg/bg",
+    "name": "Начална страница БДЖ Пътнически превози БДЖ Пътнически превози"
+},
+{
+    "id": 8,
+    "link": "https://www.bdz.bg/bg/c/rodopska-tesnolineika",
+    "name": "Родопската теснолинейка Родопската теснолинейка"
+},
+{
+    "id": 9,
+    "link": "https://www.bdz.bg/en",
+    "name": ""
+},
+{
+    "id": 10,
+    "link": "https://razpisanie.bdz.bg/bg",
+    "name": "Разписание Вътрешни линии"
+},
+{
+    "id": 11,
+    "link": "https://bileti.bdz.bg/",
+    "name": "Билети Онлайн резервация"
+},
+{
+    "id": 12,
+    "link": "https://www.bdz.bg/bg/c/live-updates",
+    "name": "Актуално Информация"
+},
+{
+    "id": 13,
+    "link": "https://live.bdz.bg/bg",
+    "name": "Електронно табло"
+},
+{
+    "id": 14,
+    "link": "https://radar.bdz.bg/bg",
+    "name": "Радар Движение и локация"
+},
+{
+    "id": 15,
+    "link": "https://www.bdz.bg/bg/contact-form",
+    "name": "Сигнали Подайте сигнал"
+},
+{
+    "id": 16,
+    "link": "https://razpisanie.bdz.bg/bg/sofia/varna",
+    "name": "Варна"
+},
+{
+    "id": 17,
+    "link": "https://razpisanie.bdz.bg/bg/sofia/pleven",
+    "name": "Плевен"
+},
+{
+    "id": 18,
+    "link": "https://razpisanie.bdz.bg/bg/sofia/targovishte",
+    "name": "Търговище"
+},
+{
+    "id": 19,
+    "link": "https://razpisanie.bdz.bg/bg/sofia/veliko-tarnovo",
+    "name": "Велико Търново"
+},
+{
+    "id": 20,
+    "link": "https://razpisanie.bdz.bg/bg/sofia/sliven",
+    "name": "Сливен"
+},
+{
+    "id": 21,
+    "link": "https://razpisanie.bdz.bg/bg/sofia/vidin",
+    "name": "Видин"
+},
+{
+    "id": 22,
+    "link": "https://razpisanie.bdz.bg/bg/sofia/lovech",
+    "name": "Ловеч"
+},
+{
+    "id": 23,
+    "link": "https://razpisanie.bdz.bg/bg/sofia/haskovo",
+    "name": "Хасково"
+},
+{
+    "id": 24,
+    "link": "https://www.bdz.bg/bg/a/klientite-na-bdzh-polzvat-namaleniya-za-muzeya-vv-vratsa",
+    "name": "Клиентите на БДЖ ползват намаления за музея във Враца"
+},
+{
+    "id": 25,
+    "link": "https://www.bdz.bg/bg/a/naryazakha-novi-sedalki-vv-vlak-na-bdzh",
+    "name": "Нарязаха нови седалки във влак на БДЖ"
+},
+{
+    "id": 26,
+    "link": "https://www.bdz.bg/bg/a/lyubitelite-na-zhelezoptniya-transport-v-blgariya-mogat-da-uchastvat-v-evropeyski-zhelezopten-fotografski-konkurs-21-09-2023-16-24",
+    "name": "Любителите на железопътния транспорт в България могат да участват в Европейски железопътен"
+},
+{
+    "id": 27,
+    "link": "https://www.bdz.bg/bg/a/deklaratsiya-za-politikata-po-kachestvo-na-rkovodstvoto-na-bdzh-ptnicheski-prevozi-eood",
+    "name": "Вижте повече"
+},
+{
+    "id": 28,
+    "link": "https://www.bdz.bg/bg/c/rodopska-tesnolineika",
+    "name": "Родопската теснолинейка"
+},
+{
+    "id": 29,
+    "link": "https://www.bdz.bg/bg/a/prava-i-zadlzheniya-na-ptnitsite",
+    "name": "Права и задължения на пътниците"
+},
+{
+    "id": 30,
+    "link": "https://www.bdz.bg/bg",
+    "name": "Начална страница БДЖ Пътнически превози БДЖ Пътнически превози"
+},
+{
+    "id": 31,
+    "link": "https://www.bdz.bg/bg/a/gari%20",
+    "name": "ЖП бюра и гари"
+},
+{
+    "id": 32,
+    "link": "https://www.bdz.bg/bg/contact-form",
+    "name": "Сигнали и жалби"
+},
+{
+    "id": 33,
+    "link": "https://www.facebook.com/BulgarianRailway/",
+    "name": ""
+},
+{
+    "id": 34,
+    "link": "https://www.bdz.bg/bg",
+    "name": "БДЖ Пътнически превози ЕООД"
+},
+{
+    "id": 35,
+    "link": "https://bdzcargo.bdz.bg/bg",
+    "name": "БДЖ Товарни превози ЕООД"
+},
+{
+    "id": 36,
+    "link": "https://holding.bdz.bg/bg",
+    "name": "Холдинг БДЖ ЕАД"
+},
+{
+    "id": 37,
+    "link": "https://www.bdz.bg/bg/a/cookies-policy",
+    "name": "Бисквитки"
+},
+{
+    "id": 38,
+    "link": "https://www.bdz.bg/bg/a/privacy-policy",
+    "name": "Политика за поверителност"
+},
+{
+    "id": 39,
+    "link": "https://www.bdz.bg/bg/a/signali-po-zzlpspoin",
+    "name": "Сигнали по ЗЗЛПСПОИН"
+},
+{
+    "id": 40,
+    "link": "https://www.bdz.bg/bg/a/bdz-information-center",
+    "name": "Контакти Контакти"
+},
+{
+    "id": 41,
+    "link": "https://www.bdz.bg/bg/contact-form",
+    "name": "Сигнали Сигнали"
+},
+{
+    "id": 42,
+    "link": "https://www.bdz.bg/bg",
+    "name": "БДЖ Пътнически превози"
+},
+{
+    "id": 43,
+    "link": "https://bdzcargo.bdz.bg/bg",
+    "name": "БДЖ Товарни превози"
+},
+{
+    "id": 44,
+    "link": "https://holding.bdz.bg/bg",
+    "name": "Холдинг БДЖ"
+},
+{
+    "id": 45,
+    "link": "https://www.bdz.bg/bg/stats",
+    "name": "Статистика"
+},
+{
+    "id": 46,
+    "link": "https://tenders.bdz.bg/",
+    "name": "Профил на купувача"
+},
+{
+    "id": 47,
+    "link": "https://www.bdz.bg/bg/c/za-nas",
+    "name": "Контакти"
+},
+{
+    "id": 48,
+    "link": "https://www.bdz.bg/bg",
+    "name": "Начална страница БДЖ Пътнически превози БДЖ Пътнически превози"
+},
+{
+    "id": 49,
+    "link": "https://www.bdz.bg/bg/c/rodopska-tesnolineika",
+    "name": "Родопската теснолинейка Родопската теснолинейка"
+},
+{
+    "id": 50,
+    "link": "https://www.bdz.bg/en",
+    "name": ""
+},
+{
+    "id": 51,
+    "link": "https://razpisanie.bdz.bg/bg",
+    "name": "Разписание Вътрешни линии"
+},
+{
+    "id": 52,
+    "link": "https://bileti.bdz.bg/",
+    "name": "Билети Онлайн резервация"
+},
+{
+    "id": 53,
+    "link": "https://www.bdz.bg/bg/c/live-updates",
+    "name": "Актуално Информация"
+},
+{
+    "id": 54,
+    "link": "https://live.bdz.bg/bg",
+    "name": "Електронно табло"
+},
+{
+    "id": 55,
+    "link": "https://radar.bdz.bg/bg",
+    "name": "Радар Движение и локация"
+},
+{
+    "id": 56,
+    "link": "https://www.bdz.bg/bg/contact-form",
+    "name": "Сигнали Подайте сигнал"
+},
+{
+    "id": 57,
+    "link": "https://www.bdz.bg/en",
+    "name": ""
+},
+{
+    "id": 58,
+    "link": "https://www.bdz.bg/bg",
+    "name": "Начало"
+},
+{
+    "id": 59,
+    "link": "https://www.bdz.bg/bg/c/novini",
+    "name": "Новини"
+},
+{
+    "id": 60,
+    "link": "https://www.bdz.bg/bg/a/bdz-information-center",
+    "name": "Информационен център"
+},
+{
+    "id": 61,
+    "link": "https://www.bdz.bg/bg/a/gari",
+    "name": "ЖП бюра и гари в страната"
+},
+{
+    "id": 62,
+    "link": "https://www.bdz.bg/bg/c/international-lines",
+    "name": "Международни линии"
+},
+{
+    "id": 63,
+    "link": "https://www.bdz.bg/bg/stats",
+    "name": "Статистика трафик"
+},
+{
+    "id": 64,
+    "link": "https://www.bdz.bg/bg/c/oferti",
+    "name": "Оферти"
+},
+{
+    "id": 65,
+    "link": "https://www.bdz.bg/bg/c/bileti-karti",
+    "name": "Билети и карти"
+},
+{
+    "id": 66,
+    "link": "https://www.bdz.bg/bg/c/uslugi",
+    "name": "Услуги"
+},
+{
+    "id": 67,
+    "link": "https://www.bdz.bg/bg/c/polezno",
+    "name": "Полезна информация"
+},
+{
+    "id": 68,
+    "link": "https://www.bdz.bg/bg/c/atraktsioni-ptuvania",
+    "name": "Атракционни пътувания"
+},
+{
+    "id": 69,
+    "link": "https://www.bdz.bg/bg/c/zheleznichari-po-prizvanie",
+    "name": "Железничари по призвание"
+},
+{
+    "id": 70,
+    "link": "https://www.bdz.bg/bg/c/knigi",
+    "name": "Чети във влака онлайн библиотека"
+},
+{
+    "id": 71,
+    "link": "https://www.bdz.bg/bg/c/razkhodka-s-vlak",
+    "name": "Разходка с влак сборник пътеписи"
+},
+{
+    "id": 72,
+    "link": "https://www.bdz.bg/bg/c/rodopska-tesnolineika",
+    "name": "Родопската теснолинейка"
+},
+{
+    "id": 73,
+    "link": "https://www.bdz.bg/bg/a/pravila-na-komunikatsiya-v-sotsialni-mrezhi",
+    "name": "Социални мрежи и Нетикет"
+},
+{
+    "id": 74,
+    "link": "https://www.bdz.bg/bg/c/za-nas",
+    "name": "Информация и контакти"
+},
+{
+    "id": 75,
+    "link": "https://www.bdz.bg/bg/c/rukovodstvo",
+    "name": "Ръководство"
+},
+{
+    "id": 76,
+    "link": "https://www.bdz.bg/bg/c/profil-na-kupuvacha",
+    "name": "Профил на купувача"
+},
+{
+    "id": 77,
+    "link": "https://www.bdz.bg/bg/c/finansovi-otcheti",
+    "name": "Финансови отчети"
+},
+{
+    "id": 78,
+    "link": "https://www.bdz.bg/bg/c/zadlzhenie-za-izvrshvane-na-obshchestvena-usluga",
+    "name": "Задължение за извършване на обществена услуга"
+},
+{
+    "id": 79,
+    "link": "https://www.bdz.bg/bg/c/fan-club",
+    "name": "БДЖ фен клуб"
+},
+{
+    "id": 80,
+    "link": "https://www.bdz.bg/bg/a/uchreditelen-akt",
+    "name": "Учредителен акт Учредителен акт"
+},
+{
+    "id": 81,
+    "link": "https://www.bdz.bg/bg/a/normativni-aktove",
+    "name": "Нормативни актове"
+},
+{
+    "id": 82,
+    "link": "https://www.bdz.bg/bg/c/covid-19",
+    "name": "Информация по"
+},
+{
+    "id": 83,
+    "link": "https://www.bdz.bg/bg/c/karieri",
+    "name": "Кариери"
+},
+{
+    "id": 84,
+    "link": "https://www.bdz.bg/bg/a/reklama",
+    "name": "Рекламна тарифа"
+},
+{
+    "id": 85,
+    "link": "https://holding.bdz.bg/bg/pochivni-bazi.html",
+    "name": "Почивни бази БДЖ"
+},
+{
+    "id": 86,
+    "link": "https://www.bdz.bg/bg/c/bdz-centar-za-profesionalno-obuchenie-cpo",
+    "name": "Център за професионално обучение"
+},
+{
+    "id": 87,
+    "link": "https://bdzcargo.bdz.bg/bg/",
+    "name": "БДЖ Товарни превози ЕООД"
+},
+{
+    "id": 88,
+    "link": "https://holding.bdz.bg/bg/",
+    "name": "Холдинг БДЖ ЕАД"
+},
+{
+    "id": 89,
+    "link": "https://www.mtitc.government.bg",
+    "name": "Министерство на транспорта МТС"
+},
+{
+    "id": 90,
+    "link": "https://www.bdz.bg/bg/a/cookies-policy",
+    "name": "Подробно"
+},
+{
+    "id": 91,
+    "link": "https://razpisanie.bdz.bg/bg",
+    "name": "Разписание Вътрешни линии"
+},
+{
+    "id": 92,
+    "link": "https://bileti.bdz.bg/",
+    "name": "Билети Онлайн резервация"
+},
+{
+    "id": 93,
+    "link": "https://www.bdz.bg/bg/c/live-updates",
+    "name": "Актуално Информация"
+},
+{
+    "id": 94,
+    "link": "https://live.bdz.bg/bg",
+    "name": "Електронно табло"
+},
+{
+    "id": 95,
+    "link": "https://radar.bdz.bg/bg",
+    "name": "Радар Движение и локация"
+},
+{
+    "id": 96,
+    "link": "https://www.bdz.bg/bg/contact-form",
+    "name": "Сигнали Подайте сигнал"
+}
+]
