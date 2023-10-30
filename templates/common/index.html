@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Choose your engine</title>
+</head>
+<style>
+     .buttons {
+width: 960px;
+margin: 0 auto;}
+
+    .action_btn {
+width: 500px;
+margin: 0 auto;}
+</style>
+<body>
+
+<div class="buttons">
+
+            <div class="action_btn">
+
+            <button name="submit" class="action_btn submit" type="submit" value="Save" onclick="window.location.href='{% url 'beautiful_soup_index' %}';">Beautiful Soup </button>
+            <button name="submit" class="action_btn cancel" type="submit" value="Cancel" onclick="myFunction2()">Scrapy</button>
+
+            <p id="saved"></p>
+
+            </div>
+
+        </div>
+</body>
+</html>

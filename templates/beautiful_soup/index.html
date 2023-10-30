@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Beautiful Soup</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+
+</head>
+
+<body>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 m-5">
+                <h1>Beautiful Soup Site Scraper</h1>
+            </div>
+        </div>
+        <div class="row m-5">
+            <div class="col-md-4">
+                <form action="{% url 'beautiful_soup_index' %}" method="POST">
+                    {% csrf_token %}
+                    {{ form.as_p }}
+
+            </div>
+            <div class="col-md-1">
+                <button type="submit" class="btn btn-primary">Scrape</button>
+            </div>
+            </form>
+            <div class="col-md-6">
+                <a class="btn btn-warning" href="{% url 'beautiful_soup_delete' %}">Delete</a>
+            </div>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8">
+                <table class="table table-hover">
+                    <thead>
+                        <tr>
+                            <th scope="col">ID</th>
+                            <th scope="col">Name</th>
+                            <th scope="col">Link</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for link in data %}
+                        {% if 'http' in link.address %}
+                        <tr onclick="window.open('{{ link.address }}', '_blank')">
+                            <th scope="row">{{ link.id }}</th>
+                            <td>{{ link.name }}</td>
+                            <td>{{ link.address }}</td>
+                        </tr>
+                        {% endif %}
+                        {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
+</body>
+
+</html>
